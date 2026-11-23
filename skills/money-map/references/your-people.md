@@ -8,7 +8,7 @@ Read this when the owner asks who they can let go, when a move depends on staff 
 
 **Multiply, do not cut.** Every time a business gets serious about AI, the same question turns up: who can we let go? The book calls it the smallest move on the table. Cutting a person saves their wage, and that saving repeats, so it is real, but it is capped: you can only cut so far before the business stops working. Making the same person count for far more has no ceiling, and almost nobody reaches for it. Both can be worth doing; the book's focus is the second. The coach's shorthand for this is **free, not fire**: free people from the grind so they can do more of the work that earns.
 
-**The ratio to watch.** Take the business's profit and divide it by total wages. The book calls it one of the truest reads an owner has on the business, and it is the number to lift. Use the same profit figure each time (real operating profit) so you compare like with like. There are two ways to move it:
+**The ratio to watch.** Take the business's operating profit and divide it by total wages. It is the number to lift. The book's printed worksheet states the ratio as turnover over wages and calls it one of the truest reads an owner has on the business. It also names profit per dollar of wages as the sharper gauge, because turnover can climb while the margin bleeds out underneath it. Use the profit version here. Use the same profit figure each time (real operating profit) so you compare like with like. There are two ways to move it:
 
 - **The lazy way:** shrink the bottom (fewer people, lower pay).
 - **The powerful way:** grow the top (the same people producing far more).

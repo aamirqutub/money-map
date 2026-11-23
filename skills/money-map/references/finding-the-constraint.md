@@ -105,4 +105,4 @@ The lesson to carry: working the team's list would have walked straight past the
 - The constraint fills **Holding you back**, with its evidence and how sure you are.
 - Demand points you at the **Rainmaker** and **Orders won**; supply at the **Producer**, **Revenue realised** and **Cost to deliver** (the leak); cash at the **Cash** strip; continuity at the **Multiple**.
 - **Worksheets:** this diagnosis feeds Worksheet 13a (walk your money path) and the close, Worksheet 16 (name the one constraint you already suspect and record what the people who do that work said when you checked).
-- Next page: `money-path-and-the-one-move.md`.
+- Next: `money-path-and-the-one-move.md`.

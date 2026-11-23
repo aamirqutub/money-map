@@ -43,7 +43,7 @@ Then:
 
 1. **Gross leak** = times a year × cost to put right, for each error type. Add them up.
 2. **Claw back a slice, not the whole number.** Not all of it is avoidable and no checking system catches everything. Start at 30%. Cap it at 70%. Recoverable a year = gross leak × the slice.
-3. **Show worst and best** (for example the 30% slice and the highest slice the owner can defend), then apply realism as the front page sets out.
+3. **Show worst and best** (for example the 30% slice and the highest slice the owner can defend), then apply realism as the main guide (`SKILL.md`) sets out.
 4. **Count it with discipline.** Sort every dollar into one of three kinds:
    - **A bill you genuinely stop paying** (materials, freight, subcontractor call-outs) is money back today.
    - **Time freed from redoing work** goes through the three fates test. It is worth $0 until the cost is actually removed or the hours are pointed at something that earns.

@@ -28,6 +28,29 @@ A one-page Money Map with: the money lines for a normal year; worth shown three 
 | `skills/money-map/SKILL.md` | The coaching guide: how to coach an owner through their Money Map, one question at a time. |
 | `skills/money-map/references/` | Sixteen topic pages (the engines, the constraint, the money path, cash, the multiplier, the running calculation, the 18 worksheets and more). |
 
+## The pages
+
+| Page | When it is used |
+|---|---|
+| [Why most AI spend vanishes](skills/money-map/references/why-ai-spend-vanishes.md) | When the owner talks about AI they've tried, hours saved or cutting costs |
+| [The three engines](skills/money-map/references/three-engines.md) | To place any problem: rainmaker, producer or multiplier |
+| [The money lines and what the business is worth](skills/money-map/references/money-lines-and-worth.md) | When working out earnings, the multiple and worth |
+| [Finding the constraint](skills/money-map/references/finding-the-constraint.md) | Before naming what's holding the business back |
+| [The money path and the one move](skills/money-map/references/money-path-and-the-one-move.md) | When walking a job end to end, and when choosing the move and running the start test |
+| [The Rainmaker](skills/money-map/references/rainmaker.md) | When the problem is getting work in, converting it, or selling again |
+| [The Producer](skills/money-map/references/producer.md) | When the problem is getting good work out the door |
+| [The Leak](skills/money-map/references/the-leak.md) | When there's rework, returns, call-backs or corrections |
+| [Cash](skills/money-map/references/cash.md) | When the business is profitable but short of cash, or growth will tie cash up |
+| [The Multiplier](skills/money-map/references/multiplier.md) | When the owner wants to sell or step back, or too much rides on one person |
+| [The operating system](skills/money-map/references/operating-system.md) | When the owner asks how to set AI up properly across the business |
+| [Your people](skills/money-map/references/your-people.md) | Before any move that changes someone's job, and to set the realism factor |
+| [What it takes, and the close](skills/money-map/references/what-it-takes.md) | When sizing the spend, payback and the first step |
+| [The running calculation](skills/money-map/references/running-calculation.md) | To see the full worked example end to end before running the owner's numbers |
+| [The 18 worksheets](skills/money-map/references/worksheets.md) | When the owner has the book and wants to work through a worksheet |
+| [How the Navigator coaches](skills/money-map/references/how-the-navigator-coaches.md) | For the full interview method, step by step, and the checks the map must pass |
+
+These pages mirror [coach.forgetaibook.com](https://coach.forgetaibook.com).
+
 ## How to use it
 
 - **No installation:** open [coach.forgetaibook.com](https://coach.forgetaibook.com) and follow the instructions there. This works with any AI assistant that can read a web page.

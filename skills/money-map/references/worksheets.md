@@ -202,9 +202,9 @@ When you coach an owner through a worksheet:
 
 **Your Move:** Two numbers: your turnover-to-wages ratio, and how honest you have been with the people who have to use this.
 
-**Fields:** turnover; wages; who has to use this; Y/N: had the honest conversation, anyone reads it as a threat to their job, the last rollout actually got used; realism factor 0.3 to 1.0; your forecast for the move (a year).
+**Fields:** operating profit; total wages (the printed worksheet asks for turnover and wages); who has to use this; Y/N: had the honest conversation, anyone reads it as a threat to their job, the last rollout actually got used; realism factor 0.3 to 1.0; your forecast for the move (a year).
 
-**Calculation:** ratio = turnover ÷ wages (lift it by growing the top, not shrinking the bottom). Counted = forecast × realism factor, with the factor held between 0.3 and 1.0.
+**Calculation:** ratio = profit ÷ total wages, using a normal year's operating profit (lift it by growing the top, not shrinking the bottom). The printed worksheet uses turnover ÷ wages, which the book says only stands in for the sharper profit gauge while margins hold. If the owner has already filled in the turnover version, keep it and work out the profit version beside it. Counted = forecast × realism factor, with the factor held between 0.3 and 1.0.
 
 **Feeds:** discounts the move to what is real.
 
