@@ -45,6 +45,8 @@ The Money Map is a thinking tool. Its figures are estimates from your own inputs
 
 ## Licence
 
-© Aamir Qutub. Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See `LICENSE.md`. You may use the method for any purpose, including paid work with your own clients, provided you give credit.
+© Aamir Qutub. Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See `LICENSE`. You may use the method for any purpose, including paid work with your own clients, provided you give credit.
 
 Credit the method as: "The Money Map, from *Forget AI. Show Me The Money.* by Aamir Qutub".
+
+The book's manuscript and illustrations are not part of this repository and are not covered by this licence.
